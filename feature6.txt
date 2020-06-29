@@ -1,1 +1,2 @@
-Updated feature 6 from master
+Updated feature 6 from master AND new feature branch
+
