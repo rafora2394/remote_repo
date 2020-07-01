@@ -1,0 +1,2 @@
+second version of feature 8
+Added another plugin version 2
