@@ -13,7 +13,7 @@ pipeline {
         }
      stage('deploy') {
             steps {
-                echo 'deploying pipeline'
+                echo 'deploying pipeline with automatic trigger'
             }
         }
     }
